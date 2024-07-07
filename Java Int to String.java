@@ -11,6 +11,7 @@ public class Solution {
    in.close();
    //String s=???; Complete this line below
     String s=Integer.toString(n);
+    System.out.println("hello world");
     //Write your code here
 
    
