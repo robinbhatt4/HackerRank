@@ -1,0 +1,2 @@
+-> Only for Educational Purpose
+-> Answers for HackerRank Java Questions
