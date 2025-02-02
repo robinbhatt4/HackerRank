@@ -1,5 +1,3 @@
-1.This is only for Educational Purpose.
-
-2. Answers for HackerRank Java Questions.
-3. 
-4. You Know The Drill.
+This is only for Educational Purpose.
+Answers for HackerRank Java Questions.
+You Know The Drill.
